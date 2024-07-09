@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">chinup-pushup</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_your_choice">Choose Your Choice</string>
+    <string name="push_up">Push Up</string>
+    <string name="chin_up">Chin Up</string>
+    <string name="chin_ups">Chin Ups</string>
+    <string name="get_stronger_with_chin_ups">Get stronger with chin-ups</string>
+    <string name="submit">Submit</string>
+    <string name="processed_result_will_be_shown_here">Processed result will be shown here</string>
+    <string name="six_classes">Six classes</string>
+    <string name="four_claasses">Four Claasses</string>
+    <string name="four_classes">Four classes</string>
+</resources>
